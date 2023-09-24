@@ -5,3 +5,28 @@ header {
   gap: 4rem;
   scroll-margin-top: 20rem;
 }
+
+header .header-felt {
+  max-width: 62rem;
+  flex: 1;
+}
+
+header .header-felt p{
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+  max-width: 50rem;
+}
+
+
+header .header-right .header-image {
+  position: relative;
+  line-height: 0;
+}
+
+
+header .header-right .header-image .edwin-ayerbe{
+  border-radius: 0.5rem;
+  min-width: 25rem;
+  max-width: 100%;
+}
+
